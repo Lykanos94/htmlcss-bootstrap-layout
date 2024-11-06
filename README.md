@@ -11,3 +11,4 @@ htmlcss-bootsrap-layout
 
 5. bonus colore testo bianco per tutte le col tranne la prima e l'ultima
 
+6. Exercise completed
